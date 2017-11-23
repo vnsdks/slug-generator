@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the ausi/slug-generator package.
+ * This file is part of the vnsdks/slug-generator package.
  *
  * (c) Martin Auswöger <martin@auswoeger.com>
  *
@@ -11,9 +11,9 @@
 
 declare(strict_types=1);
 
-namespace Ausi\SlugGenerator\Tests;
+namespace Vnsdks\SlugGenerator\Tests;
 
-use Ausi\SlugGenerator\SlugOptions;
+use Vnsdks\SlugGenerator\SlugOptions;
 use PHPUnit\Framework\TestCase;
 
 /**

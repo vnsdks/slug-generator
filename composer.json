@@ -1,5 +1,5 @@
 {
-    "name": "ausi/slug-generator",
+    "name": "vnsdks/slug-generator",
     "type": "library",
     "description": "Slug Generator",
     "license": "MIT",
@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "php": "^7.1",
+        "php": "^7.0",
         "ext-intl": "*",
         "ext-mbstring": "*",
         "ext-pcre": "*"
@@ -23,12 +23,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Ausi\\SlugGenerator\\": "src/"
+            "Vnsdks\\SlugGenerator\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Ausi\\SlugGenerator\\Tests\\": "tests/"
+            "Vnsdks\\SlugGenerator\\Tests\\": "tests/"
         }
     }
 }

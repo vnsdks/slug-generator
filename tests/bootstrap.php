@@ -1,7 +1,7 @@
 <?php
 
 /*
- * This file is part of the ausi/slug-generator package.
+ * This file is part of the vnsdks/slug-generator package.
  *
  * (c) Martin Auswöger <martin@auswoeger.com>
  *
